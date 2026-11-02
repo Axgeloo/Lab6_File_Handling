@@ -1,0 +1,6 @@
+Student: Miones
+Student ID: TUPM-26-4302
+Seed Digit: 2
+ID Sum: 17
+Name Length: 6
+Verification Value: 104

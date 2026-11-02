@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Miones
+Student ID: TUPM-26-4302
+Seed Digit: 2
+ID Sum: 17
+Verification Value: 104
+Dataset Sample Size: 67
+Valid Records: 0
+Average Global Active Power: 0
+JSON File: Miones_TUPM-26-4302_record.json
+Backup File: Miones_TUPM-26-4302_record.csv
